@@ -1,0 +1,9 @@
+.hotim_slider {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.hotim_slider .slide_img {
+    height: 300px;
+}
